@@ -1,5 +1,5 @@
 # What are the potential benefits of Blockchain in Healthcare?
-This is my dissertation that I wrote when I was 17 as part of my Extended Project Qualification in Upper 6th Form. I was awarded 51/54 A*.
+This is my dissertation that I wrote when I was 17 as part of my Extended Project Qualification in Upper 6th Form. I was awarded 51/54 A*. (Approx. 7,500 words)
 
 ## Abstract
 Following the hype surrounding Bitcoin, I aimed to understand what the actual technology behind cryptocurrencies was, and what kind of applications it could have. <br/> <br/>
