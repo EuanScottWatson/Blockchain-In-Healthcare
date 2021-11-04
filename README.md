@@ -106,13 +106,13 @@ The recent hype and controversies around cryptocurrencies such as Bitcoin are wh
 
 | ![Figure 1](/images/figure1.png) <br/> <br/>
 |:--:|
-| <b>This is one block that contained 297 trasnactions worth 650.6 BTC (£4 million) (Block #523393, 2018)</b>|
+| <b>**__Figure 1.__** This is one block that contained 297 trasnactions worth 650.6 BTC (£4 million) (Block #523393, 2018)</b>|
 |![Figure 2](/images/figure2.png) <br/> <br/>
-| <b>One address sending 1.13 BTC to 3 parties </b>|
+| <b>**__Figure 2.__** One address sending 1.13 BTC to 3 parties </b>|
 |![Figure 3](/images/figure3.png) <br/> <br/>
-| <b>The sender's address can then be followed to see all the transactions they have carried out (Bitcoin Address, 2018)</b>|
+| <b>**__Figure 3.__** The sender's address can then be followed to see all the transactions they have carried out (Bitcoin Address, 2018)</b>|
 |![Figure 4](/images/figure4.png) <br/> <br/>
-| <b>Bitcoin is the second most searched item of 2017 in Global News.</b>|
+| <b>**__Figure 4.__** Bitcoin is the second most searched item of 2017 in Global News.</b>|
 
 ## Bibliography
 
