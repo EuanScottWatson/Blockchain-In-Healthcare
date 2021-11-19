@@ -106,7 +106,7 @@ The recent hype and controversies around cryptocurrencies such as Bitcoin are wh
 
 | ![Figure 1](/images/figure1.png) <br/> <br/>
 |:--:|
-| <b>**__Figure 1.__** This is one block that contained 297 trasnactions worth 650.6 BTC (£4 million) (Block #523393, 2018)</b>|
+| <b>**__Figure 1.__** This is one block that contained 297 transactions worth 650.6 BTC (£4 million) (Block #523393, 2018)</b>|
 |![Figure 2](/images/figure2.png) <br/> <br/>
 | <b>**__Figure 2.__** One address sending 1.13 BTC to 3 parties </b>|
 |![Figure 3](/images/figure3.png) <br/> <br/>
